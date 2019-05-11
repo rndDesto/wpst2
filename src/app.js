@@ -1,5 +1,6 @@
-import SCSS from './gayascss.sass';
-import CSS from './gayague.css';
+import SCSS from './scss/index.scss';
+import CSS from './css/gayague.css';
+import GRID from './css/bootstrap-grid.css';
 import 'jquery';
 import './contohJquery';
 import * as getNameExport from './contohExport';
